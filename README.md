@@ -40,7 +40,7 @@ Follow these steps to set up the project locally.
 
 
 
-1.git clone https://github.com/YOUR_USERNAME/SponsorshipHub.git
+git clone https://github.com/YOUR_USERNAME/SponsorshipHub.git
 cd SponsorshipHub
 2. Install Client Dependencies (Frontend)
 cd client
