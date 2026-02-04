@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Environment Variables (Protect your passwords!)
+.env
+.env.uat
+.env.production
+
+# Build Output
+/client/dist
+/client/build
+
+# System Files
+.DS_Store
+Thumbs.db
